@@ -119,6 +119,36 @@ main .cartao-pokemon .tipos {
   border-radius: 10px;
 }
 
+.voador{
+  background-color: #74e8ffad;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.normal{
+  background-color: #7b9afffb;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.eletrico{
+  background-color: yellow;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.terra{
+  background-color: rgb(45, 7, 7);
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.fada{
+  background-color: pink;
+  padding: 8px;
+  border-radius: 10px;
+}
+
 main .descricao {
   max-height: 80px;
   overflow-y: scroll;
